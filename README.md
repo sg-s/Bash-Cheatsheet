@@ -33,7 +33,7 @@ For example, the following command gives us all the information we need about th
 ```
 ###cat
 The `cat` command reads a file passed as a parameter and by default print its contents to standard output. <br>
-Passing multiply files as parameters concatenates the files and then prints to standard output.
+Passing multiple files as parameters concatenates the files and then prints to standard output.
 ###echo
 The `echo` command prints its arguments to standard output. <br>
 ```
